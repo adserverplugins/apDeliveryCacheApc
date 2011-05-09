@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href=""?>
+
+<plugin>
+    <name>apDeliveryCacheStore</name>
+    <creationDate>2010-12-13</creationDate>
+    <author>AdserverPlugins.com</author>
+    <authorEmail>info@adserverplugins.com</authorEmail>
+    <authorUrl>http://www.adserverplugins.com/</authorUrl>
+    <license>GPL</license>
+    <description>AdserverPlugins.com Delivery Cache Store Plugins</description>
+    <version>1.0.0-rc1</version>
+    <type>package</type>
+
+    <install>
+
+        <contents>
+            <group name="apApc">1</group>
+        </contents>
+
+        <register>
+            <extension type='deliveryCacheStore' group='apApc'>apApc</extension>
+        </register>
+
+    </install>
+
+</plugin>
