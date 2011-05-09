@@ -3,13 +3,13 @@
 
 <plugin>
     <name>apDeliveryCacheStore</name>
-    <creationDate>2010-12-13</creationDate>
+    <creationDate>2011-05-09</creationDate>
     <author>AdserverPlugins.com</author>
     <authorEmail>info@adserverplugins.com</authorEmail>
     <authorUrl>http://www.adserverplugins.com/</authorUrl>
     <license>GPL</license>
     <description>AdserverPlugins.com Delivery Cache Store Plugins</description>
-    <version>1.0.0-rc1</version>
+    <version>1.0.0</version>
     <type>package</type>
 
     <install>

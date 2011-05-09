@@ -29,7 +29,7 @@
 function Plugin_deliveryCacheStore_apApc_apApc_Delivery_cacheRetrieve($filename) 
 {
     $success = null;
-    $serializedCacheVar = apc_fetch($key, $success);
+    $serializedCacheVar = apc_fetch($filename, $success);
     if (!$success) {
         return false;
     }
