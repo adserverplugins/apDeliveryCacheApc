@@ -1,7 +1,7 @@
 <?php
 
 /**
- * apLoader for the OpenX ad server
+ * apDeliveryCacheStore for the OpenX ad server
  *
  * @author Matteo Beccati
  * @license GPL
