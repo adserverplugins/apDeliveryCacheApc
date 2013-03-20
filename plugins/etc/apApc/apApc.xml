@@ -3,13 +3,13 @@
 
 <plugin>
     <name>apApc</name>
-    <creationDate>2011-05-11</creationDate>
+    <creationDate>2013-03-20</creationDate>
     <author>Matteo Beccati</author>
     <authorEmail>matteo@beccati.com</authorEmail>
     <authorUrl>http://www.beccati.com/</authorUrl>
-    <license>GPL</license>
+    <license>GPLv2</license>
     <description>APC based Cache Store plugins for OpenX</description>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <oxversion>2.8.0</oxversion>
     <extends>deliveryCacheStore</extends>
 
